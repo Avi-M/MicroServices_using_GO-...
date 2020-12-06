@@ -1,2 +1,2 @@
 # MicroServices_using_GO-...
-This is the repository for microservice applications using Golang.
+This is the repository for simple http-basic applications using Golang.
